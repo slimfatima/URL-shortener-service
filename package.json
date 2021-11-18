@@ -1,0 +1,17 @@
+{
+  "name": "npm-init-shortener",
+  "version": "1.0.0",
+  "description": "shortener package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shortener",
+    "package.json",
+    "npm",
+    "init"
+  ],
+  "author": "fatima aruna.fatima@gmail.com",
+  "license": "ISC"
+}
